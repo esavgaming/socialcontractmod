@@ -1,0 +1,18 @@
+{
+	"name": "ESAV Gaming Social Contract",
+	"description": "[img]https://steamuserimages-a.akamaihd.net/ugc/2410076159389381303/B6995E3058D89E9A169410CCD76CDD7362617E3E/[/img]\n[url=https://www.patreon.com/esavgamingbr][img]https://steamuserimages-a.akamaihd.net/ugc/2420208624585643160/1E061806239D503EA80F8F6B0420A51288BD9742/[/img][/url]",
+	"changeNote": "Removal of Thrall Patrol and Fast Travel Features.\nReworking the Thrallskill dynamic to account by the removal of direct positioning control.",
+	"author": "ESAV Gaming",
+	"authorUrl": "http://www.esav.com.br/",
+	"versionMajor": 2,
+	"versionMinor": 5,
+	"versionBuild": 32,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2910351043",
+	"steamTestLivePublishedFileId": "2928510611",
+	"steamVisibility": 0,
+	"folderName": "tradeboxmod",
+	"revisionNumber": 1383520,
+	"snapshotId": 43820,
+	"fileSize": -2
+}
